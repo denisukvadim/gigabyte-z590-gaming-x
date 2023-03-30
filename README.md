@@ -9,7 +9,9 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 - 1x 2.5GBase-T (Realtek 8125)
 - RAM: 48GB 26666Mhz (4 modules, 2 modules 16GB 3200Mhz and 2 modules 32GB 26666Mhz)
 - GPU: AMD Radeon Gigabyte RX 6800 XT aorus master
+- BT ASUS BT-500 or ASUS BT-400
 
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/12.png?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/01.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/06.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/02.jpg?raw=true?raw=true)
