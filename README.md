@@ -22,7 +22,7 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/09.jpg?raw=true?raw=true)
 
 ## Software used in this build #
-- OS: Mac os Sonoma 13.2.1
+- OS: Mac os Sonoma 14.4
 - Boot loader: Open Core 1.0.0
 
 ## What doesn't work
