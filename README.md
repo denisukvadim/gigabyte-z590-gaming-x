@@ -9,10 +9,10 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 - 1x 2.5GBase-T (Realtek 8125)
 - RAM: 48GB 26666Mhz (4 modules, 2 modules 16GB 3200Mhz and 2 modules 32GB 26666Mhz)
 - GPU: AMD Radeon Gigabyte RX 6800 XT aorus master
-- BT ASUS BT-500 or ASUS BT-400
+- BT AX210
 
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/12.png?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/01.jpg?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/20.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/06.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/02.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/03.jpg?raw=true?raw=true)
@@ -22,11 +22,11 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/09.jpg?raw=true?raw=true)
 
 ## Software used in this build #
-- OS: Mac os Ventura 13.2.1
-- Boot loader: Open Core 0.9.0
+- OS: Mac os Sonoma 13.2.1
+- Boot loader: Open Core 1.0.0
 
 ## What doesn't work
-- N/A
+- Some time have problem for work with airdrop
 
 ### P.S
 If you have any question or improvement for this, you can create tickets in this repository
