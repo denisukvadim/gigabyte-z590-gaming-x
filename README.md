@@ -1,6 +1,6 @@
 # GIGABYTE-Z590-GAMING-X-I5-11400F
 Within this repository I share my Hackintosh EFI for my newest build based on Intels Rocketlake 11th Gen CPU
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/04.jpg?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/about.jpg?raw=true?raw=true)
 
 ## Hardware used in this build #
 - CPU: Intel i5-11400F
@@ -11,18 +11,15 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 - GPU: AMD Radeon Gigabyte RX 6800 XT aorus master
 - BT AX210
 
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/12.png?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/20.jpg?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/06.jpg?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/02.jpg?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/03.jpg?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/05.jpg?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/07.jpg?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/08.jpg?raw=true?raw=true)
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/09.jpg?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/desctop.png?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/about_system.jpg?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/OP_system.jpg?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/OP_boot.jpg?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/OP_kext.jpg?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/OP_usb.jpg?raw=true?raw=true)
 
 ## Software used in this build #
-- OS: Mac os Sonoma 14.4
+- OS: Mac os Sonoma 14.5
 - Boot loader: Open Core 1.0.0
 
 ## What doesn't work
