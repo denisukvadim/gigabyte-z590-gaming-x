@@ -11,7 +11,7 @@ Within this repository I share my Hackintosh EFI for my newest build based on In
 - GPU: AMD Radeon Gigabyte RX 6800 XT aorus master
 - BT AX210
 
-![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/desctop.png?raw=true?raw=true)
+![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/desctop.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/about_system.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/OP_system.jpg?raw=true?raw=true)
 ![alt text](https://github.com/denisukvadim/gigabyte-z590-gaming-x/blob/main/images/OP_boot.jpg?raw=true?raw=true)
